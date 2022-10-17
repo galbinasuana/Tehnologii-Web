@@ -1,0 +1,190 @@
+body {
+    margin: 0;
+}
+
+.intro {
+    background-color: #FAD4D4;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: #F47C7C;
+    font-family: 'Tangerine', serif;
+    font-size: 90px;
+    text-align: center;
+    vertical-align: middle;
+    padding-top: 270px;
+    border: 0px;
+    margin: 0px;
+} 
+
+h2 {
+    color: #EF9F9F;
+    font-family: 'Dosis', sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    text-align: center;
+    padding-bottom: 100px;
+    border: 0px;
+    margin: 0px;
+} 
+
+hr {
+    margin: 0px;
+}
+
+.hello {
+    background-color: #FFF2F2;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+h3 {
+    color: #d65b5b;
+    font-family: 'Andika', sans-serif;
+    font-size: 60px;
+    text-align: center;
+    padding-top: 50px;
+    border: 0px;
+    margin: 0px;
+}
+
+.img {
+    border-radius: 50%;
+    display: block;
+    margin-left: auto; 
+    margin-right: auto; 
+    padding: 40px;
+}
+
+p {
+    font-size: 30px;
+    text-align: center;
+    font-style: italic;
+}
+
+.center {
+    color: #F47C7C;
+    text-align: center;
+    width: 100%;
+    border: 0px;
+    margin: 0px;
+}
+
+.skills {
+    background-color: #f47c7cb4;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+h4 {
+    color: darkblue;
+    font-family: 'Dosis', sans-serif;
+    font-size: 30px;
+    font-weight: normal;
+    padding-bottom: 10px;
+    border: 0px;
+    margin: 0px;
+}
+
+#pskill {
+    color: black;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    word-spacing: 5px;
+    font-style: normal;
+    padding-top: 10px;
+    border: 0px;
+    margin: 0px;
+}
+
+#skillscontainer {
+    display: flex;
+    align-items: center;
+}
+
+.contact {
+    background-color: #FFF2F2;
+    height: 70vh;
+    box-sizing: border-box;
+}
+
+.bn632-hover {
+    width: 200px;
+    font-size: 20px;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer; 
+    margin: 0;
+    height: 55px;
+    text-align:center;
+    border: none;
+    background-size: 300% 100%;
+    border-radius: 50px;
+    transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:hover {
+    background-position: 100% 0;
+    transition: all .4s ease-in-out;
+    -o-transition: all .4s ease-in-out;
+    -webkit-transition: all .4s ease-in-out;
+    transition: all .4s ease-in-out;
+  }
+  
+  .bn632-hover:focus {
+    outline: none;
+  }
+  
+  .bn632-hover.bn27 {
+    background-image: linear-gradient(
+      to right,
+      #ed6ea0,
+      #ec8c69,
+      #f7186a,
+      #fbb03b
+    );
+    box-shadow: 0 4px 15px 0 rgba(236, 116, 149, 0.75);
+  }
+
+  #container {
+    text-align: center;
+  }
+
+.final {
+    background-color: #FAD4D4;
+    height: 30vh;
+    box-sizing: border-box;
+}
+
+#links {
+    color:darkblue;
+    font-family: 'Dosis', sans-serif;
+    font-size: 30px;
+    word-spacing: 25px;
+    font-weight: bold;
+    font-style: normal;
+    padding-top: 80px;
+    border: 0px;
+    margin: 0px;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+#copyright {
+    color: black;
+    font-family: 'Dosis', sans-serif;
+    font-size: 20px;
+    word-spacing: 5px;
+    font-weight: bold;
+    font-style: normal;
+    padding-top: 30px;
+    border: 0px;
+    margin: 0px;
+}
